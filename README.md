@@ -8,7 +8,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
 <table>
 <tr>
@@ -46,7 +46,7 @@ const gowtham = {
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -84,7 +84,7 @@ const gowtham = {
 ![React](https://img.shields.io/badge/react-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-02569B?logo=flutter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/android%20studio-3DDC84?logo=android-studio&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-06B6D4?logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -102,6 +102,7 @@ const gowtham = {
 
 ![Git](https://img.shields.io/badge/git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-3DDC84?logo=android-studio&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-000000?logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E?logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/canva-00C4CC?logo=canva&logoColor=white)
@@ -118,7 +119,7 @@ const gowtham = {
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=gowtham142006&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=gowtham142006&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=gowtham142006&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
