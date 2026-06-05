@@ -50,16 +50,16 @@ const gowtham = {
 
 <p align="center">
 
-<a href="https://instagram.com/mr__yellow__flash__06">
-<img src="https://img.shields.io/badge/@mr__yellow__flash__06-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
 <a href="https://linkedin.com/in/gowtham-a-6381aa356">
-<img src="https://img.shields.io/badge/Gowtham_A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:gowtham2006a@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/mr__yellow__flash__06">
+<img src="https://img.shields.io/badge/@mr__yellow__flash__06-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
