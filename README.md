@@ -10,39 +10,6 @@
 
 # 🧑‍💻 About Me
 
-<table>
-<tr>
-<td valign="top" width="55%">
-
-```javascript
-const gowtham = {
-    role: "CSE Student & Developer",
-
-    building: [
-       "Full-Stack Apps",
-       "Cross-platform Mobile"
-    ],
-
-    learning: [
-        "Flutter",
-        "System Design",
-        "DSA"
-    ],
-
-    goal: "Build impactful tech products",
-    available:  true  // actively seeking internships
-};
-```
-
-<br clear="right"/>
-</td>
-<td valign="top" width="45%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
