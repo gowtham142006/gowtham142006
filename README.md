@@ -184,10 +184,34 @@ const gowtham = {
 
 ---
 
+
 # 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=gowtham142006&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=gowtham142006&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=gowtham142006&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<div align="center">
+
+<img width="55%" src="https://github-readme-stats.shion.dev/api?username=gowtham142006&theme=radical&hide_border=false&include_all_commits=true&count_private=false"/>
+
+<img width="43%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gowtham142006&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="75%" src="https://streak-stats.demolab.com/?user=gowtham142006&theme=radical&hide_border=false"/>
+
+</div>
+
+
+</div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gowtham142006&theme=radical" />
+</p>
+
+</div>
+
 
 ---
 
@@ -205,19 +229,6 @@ const gowtham = {
 
 ---
 
-# ⚡ Skill Progress
-
-```text
-Java        █████████░ 90%
-Python      ████████░░ 80%
-React       ███████░░░ 70%
-Next.js     ███████░░░ 70%
-Flutter     ██████░░░░ 60%
-Supabase    ██████░░░░ 60%
-MySQL       ███████░░░ 70%
-```
-
----
 
 # 💡 Developer Quote
 
