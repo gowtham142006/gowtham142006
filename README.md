@@ -46,23 +46,26 @@ const gowtham = {
 
 ---
 
-# 🌐 Connect With Me
+<h1 align="center">🌐 Connect With Me</h1>
 
 <p align="center">
-
 <a href="https://linkedin.com/in/gowtham-a-6381aa356">
-<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
 </a>
 
 <a href="mailto:gowtham2006a@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="60"/>
 </a>
 
 <a href="https://instagram.com/mr__yellow__flash__06">
-<img src="https://img.shields.io/badge/@mr__yellow__flash__06-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=instagram" height="60"/>
 </a>
-
 </p>
+
+<p align="center">
+<b1> 🔗 Let's Connect and Build Something Amazing Together</1b>
+</p>
+
 
 ---
 
@@ -250,8 +253,6 @@ const gowtham = {
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-### 💻 Code • 🚀 Build • 📚 Learn • 🔁 Repeat
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&text=⭐%20Thanks%20for%20visiting!&desc=💻%20Code%20•%20🚀%20Build%20•%20📚%20Learn%20•%20🔁%20Repeat&descAlignY=75&fontSize=34&fontColor=ffffff&descSize=18&animation=fadeIn&color=0:00F7FF,50:6A11CB,100:2575FC"/>
 
 </div>
