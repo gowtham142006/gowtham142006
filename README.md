@@ -132,6 +132,14 @@ const gowtham = {
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gowtham142006/gowtham142006/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 # ⚡ Skill Progress
 
 ```text
