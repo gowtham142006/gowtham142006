@@ -10,6 +10,9 @@
 
 # 🧑‍💻 About Me
 
+<p align="center">
+  <img src="./assets/ChatGPT%20Image%20Jun%2017,%202026,%2009_03_09%20PM.png" width="1000">
+</p>
 
 ---
 
