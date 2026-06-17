@@ -66,46 +66,111 @@ const gowtham = {
 
 ---
 
-# 🚀 Tech Stack
+<div align="center">
+
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="120"/>
+
+<h1>🚀 Tech Stack 💻</h1>
+
+</div>
+
 
 ## 💻 Languages
 
-![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/c-00599C?logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-ED8B00?logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-0175C2?logo=dart&logoColor=white)
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/><br><b>Java</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/><br><b>Python</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55"/><br><b>C</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/><br><b>JavaScript</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55"/><br><b>TypeScript</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="55"/><br><b>Dart</b>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🌐 Frontend & Mobile
 
-![React](https://img.shields.io/badge/react-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/flutter-02569B?logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-06B6D4?logo=tailwind-css&logoColor=white)
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/><br><b>React</b>
+</td>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55"/><br><b>Next.js</b>
+</td>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55"/><br><b>Flutter</b>
+</td>
+<td align="center" width="150">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="55"/><br><b>Tailwind CSS</b>
+</td>
+</tr>
+</table>
 
 ---
 
 ## ⚙️ Backend & Database
 
-![Node.js](https://img.shields.io/badge/node.js-339933?logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-FFCA28?logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&logoColor=white)
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/><br><b>Node.js</b>
+</td>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55"/><br><b>Firebase</b>
+</td>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="55"/><br><b>Supabase</b>
+</td>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/><br><b>MySQL</b>
+</td>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55"/><br><b>PostgreSQL</b>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tools & Design
 
-![Git](https://img.shields.io/badge/git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/android%20studio-3DDC84?logo=android-studio&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-000000?logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-F24E1E?logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/canva-00C4CC?logo=canva&logoColor=white)
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/><br><b>Git</b>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br><b>GitHub</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/><br><b>VS Code</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="55"/><br><b>Android Studio</b>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vercel" width="55"/><br><b>Vercel</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55"/><br><b>Figma</b>
+</td>
+</tr>
+</table>
 
 ---
 
