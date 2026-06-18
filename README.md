@@ -162,27 +162,21 @@
 
 <div align="center">
 
-<img width="55%" src="https://github-readme-stats.shion.dev/api?username=gowtham142006&theme=radical&hide_border=false&include_all_commits=true&count_private=false"/>
+<img width="55%" src="https://github-readme-stats.shion.dev/api?username=gowtham142006&show_icons=true&hide_border=false&bg_color=0d1117&title_color=8b5cf6&text_color=FFFFFF&icon_color=2563eb"/>
 
-<img width="43%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gowtham142006&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+<img width="43%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gowtham142006&layout=compact&hide_border=false&bg_color=0d1117&title_color=8b5cf6&text_color=FFFFFF"/>
 
 </div>
 
 <br>
 
 <div align="center">
-  <img width="75%" src="https://github-readme-streak-stats-eight.vercel.app/?user=gowtham142006&theme=radical&hide_border=false" />
-</div>
-
-
+  <img width="75%" src="https://github-readme-streak-stats-eight.vercel.app/?user=gowtham142006&background=0D1117&ring=8B5CF6&fire=2563EB&currStreakLabel=8B5CF6&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=93C5FD&sideNums=FFFFFF" />
 </div>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gowtham142006&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gowtham142006&theme=github_dark" />
 </p>
-
-</div>
-
 
 ---
 
@@ -206,7 +200,16 @@
 
 # 🔝 Top Contributed Repositories
 
-![](https://github-contributor-stats.vercel.app/api?username=gowtham142006&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/gowtham142006/Java-Learning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gowtham142006&repo=Java-Learning&theme=tokyonight" />
+  </a>
+  
+  <a href="https://github.com/gowtham142006/chat_app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gowtham142006&repo=chat_app&theme=tokyonight" />
+  </a>
+</p>
+
 
 ---
 
