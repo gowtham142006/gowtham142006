@@ -11,7 +11,7 @@
 # 🧑‍💻 About Me
 
 <p align="center">
-  <img src="./assets/ChatGPT%20Image%20Jun%2017,%202026,%2009_03_09%20PM.png" width="1000">
+  <img src="./assets/ezgif-4573b949cb2e8c26.gif" width="1000">
 </p>
 
 ---
@@ -52,23 +52,23 @@
 
 <table>
 <tr>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/><br><b>Java</b>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br><b>Java</b>
 </td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/><br><b>Python</b>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br><b>Python</b>
 </td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55"/><br><b>C</b>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/><br><b>C</b>
 </td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/><br><b>JavaScript</b>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br><b>JavaScript</b>
 </td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55"/><br><b>TypeScript</b>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br><b>TypeScript</b>
 </td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="55"/><br><b>Dart</b>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/><br><b>Dart</b>
 </td>
 </tr>
 </table>
@@ -79,17 +79,17 @@
 
 <table>
 <tr>
-<td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/><br><b>React</b>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br><b>React</b>
 </td>
-<td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55"/><br><b>Next.js</b>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/><br><b>Next.js</b>
 </td>
-<td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55"/><br><b>Flutter</b>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/><br><b>Flutter</b>
 </td>
-<td align="center" width="150">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="55"/><br><b>Tailwind CSS</b>
+<td align="center" width="90">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/><br><b>Tailwind CSS</b>
 </td>
 </tr>
 </table>
@@ -100,20 +100,20 @@
 
 <table>
 <tr>
-<td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/><br><b>Node.js</b>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br><b>Node.js</b>
 </td>
-<td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55"/><br><b>Firebase</b>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/><br><b>Firebase</b>
 </td>
-<td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="55"/><br><b>Supabase</b>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40"/><br><b>Supabase</b>
 </td>
-<td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/><br><b>MySQL</b>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br><b>MySQL</b>
 </td>
-<td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55"/><br><b>PostgreSQL</b>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br><b>PostgreSQL</b>
 </td>
 </tr>
 </table>
@@ -124,23 +124,23 @@
 
 <table>
 <tr>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/><br><b>Git</b>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br><b>Git</b>
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=github" width="55"/><br><b>GitHub</b>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=github" width="40"/><br><b>GitHub</b>
 </td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/><br><b>VS Code</b>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br><b>VS Code</b>
 </td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="55"/><br><b>Android Studio</b>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/><br><b>Android Studio</b>
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=vercel" width="55"/><br><b>Vercel</b>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=vercel" width="40"/><br><b>Vercel</b>
 </td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55"/><br><b>Figma</b>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/><br><b>Figma</b>
 </td>
 </tr>
 </table>
@@ -171,9 +171,7 @@
 <br>
 
 <div align="center">
-
-<img width="75%" src="https://streak-stats.demolab.com/?user=gowtham142006&theme=radical&hide_border=false"/>
-
+  <img width="75%" src="https://github-readme-streak-stats-eight.vercel.app/?user=gowtham142006&theme=radical&hide_border=false" />
 </div>
 
 
@@ -188,13 +186,10 @@
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contributions
 
 [![Gowtham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gowtham142006&theme=react-dark)](https://github.com/gowtham142006)
 
----
-
-# 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gowtham142006/gowtham142006/output/github-contribution-grid-snake-dark.svg" />
